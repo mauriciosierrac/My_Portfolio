@@ -2,8 +2,6 @@
 This repository contains a project developed in VueJs3, with Boostrap CDN, capturing the GitHub API and showing the repositories developed by me on cards with its link to GitHub and if it is deployed it shows a button to the project's index.
 
 
-# 12-primer-cli
-
 ## Project setup
 ```
 npm install
